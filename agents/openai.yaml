@@ -1,0 +1,4 @@
+interface:
+  display_name: "诗歌自动化工作流"
+  short_description: "完整阅读诗集，分析意象与语言，生成原创融合诗并保存本地 Markdown 诗库"
+  default_prompt: "请使用 $poetry-workflow 完整阅读我选择的诗歌，提炼创作蓝图，写出原创融合诗并保存到指定诗库。"

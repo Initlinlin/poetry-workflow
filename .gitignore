@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+server.md
+vault/
+exports/
+runs/
+poetry-output/
+.poetry-prepare-*/
+*.pem
+*.key
+*.pfx
+*.p12
