@@ -9,7 +9,7 @@
 将本仓库复制或克隆到 Codex 的技能目录，目录名保留 `poetry-workflow`：
 
 ```bash
-git clone <你自己的GitHub仓库URL> ~/.codex/skills/poetry-workflow
+git clone https://github.com/Initlinlin/poetry-workflow.git ~/.codex/skills/poetry-workflow
 ```
 
 Windows 用户复制到用户目录下的 `.codex/skills/poetry-workflow/`。不要覆盖已有同名 Skill；新会话或重新加载后使用。
@@ -50,4 +50,4 @@ python3 -m unittest discover -s tests -v
 
 只上传本目录，不上传诗歌网站整个项目。已附 `.gitignore` 和 GitHub Actions 检查；运行记录、诗库、导出文件、环境配置及服务器资料均不属于发布内容。
 
-在 GitHub 创建空仓库后，可从本目录初始化并推送；仓库地址由你决定。Skill 包生成不代表已经创建或推送 GitHub 仓库。
+公开仓库：https://github.com/Initlinlin/poetry-workflow 。其他个人 Skills 按用途保存在私有仓库 https://github.com/Initlinlin/skills-collection 。
